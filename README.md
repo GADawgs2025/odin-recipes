@@ -4,7 +4,7 @@ The website will consist of a main index page which will have links to a few rec
 
 - Using knowledge of newly learned git techniques 
 Commands related to a remote repository:
-----------------------------------------
+**----------------------------------------
 git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
 git push or git push origin main (Both accomplish the same goal in this context)
 Commands related to the workflow:
