@@ -19,4 +19,6 @@ git log
 The basic Git syntax is program | action | destination.
 ------------------------------------------------------
 - Using base knowledge of HTML Markup Language
+Sources:
+Peach Cobbler image: Allrecipes / Peyton Beckwith https://www.allrecipes.com/fresh-peach-cobbler-with-hot-sugar-crust-recipe-12009757
 - All this work is done to the glory of God!
